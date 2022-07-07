@@ -11,7 +11,7 @@
 		<key>debugEnabled</key>
 		<true/>
 		<key>bootArgsInjection</key>
-		<false/>
+		<true/>
 		<key>bootArgsString</key>
 		<string>-v</string>
 	</dict>
