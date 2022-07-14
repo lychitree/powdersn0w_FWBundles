@@ -2,6 +2,13 @@
 v3.0+
 
 ## Bundles added by myself (lychi)
+
+### Beta bundles
+
+Beta bundles will not work unless moved to `FirmwareBundles/`
+
+Using these bundles will result in a failed activation unless `/System/Library/CoreServices/SystemVersion.plist` is modified.
+
 ### iPhone5,1
 - 6.0 (10A405)
 - 6.0.1 (10A525)
