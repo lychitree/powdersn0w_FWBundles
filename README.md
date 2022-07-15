@@ -9,6 +9,9 @@ Beta bundles will not work unless moved to `FirmwareBundles/`
 
 Using these bundles will result in a failed activation unless `/System/Library/CoreServices/SystemVersion.plist` is modified.
 
+### iPhone4,1
+- 8.1.3 (12B466)
+
 ### iPhone5,1
 - 6.0 (10A405)
 - 6.0.1 (10A525)
@@ -41,6 +44,7 @@ Using these bundles will result in a failed activation unless `/System/Library/C
 - 6.1.2 (10B146)
 - 6.1.3 (10B329)
 - 7.1.2 (11D257) (BASE)
+- 8.1.1 (12B435)
 
 ## INFOMATION
 (TODO)  
