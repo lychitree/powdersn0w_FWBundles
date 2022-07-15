@@ -28,6 +28,7 @@ Using these bundles will result in a failed activation unless `/System/Library/C
 - 6.1 (10B143)
 - 6.1.2 (10B146)
 - 6.1.3 (10B329)
+- 8.1.1 (12B435)
 - 9.0 (13A344)
 - 9.0.1 (13A404)
 - 9.1 (13B143)
