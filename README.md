@@ -1,51 +1,11 @@
 # powdersn0w_FWBundles
 v3.0+
 
-## Bundles added by myself (lychi)
-
-### Beta bundles
+### Note about beta bundles added by myself (lychi)
 
 Beta bundles will not work unless moved to `FirmwareBundles/`
 
 Using these bundles will result in a failed activation unless `/System/Library/CoreServices/SystemVersion.plist` is modified.
-
-### iPhone4,1
-- 8.1.3 (12B466)
-
-### iPhone5,1
-- 6.0 (10A405)
-- 6.0.1 (10A525)
-- 6.0.2 (10A551)
-- 6.1 (10B143)
-- 6.1.2 (10B146)
-- 6.1.3 (10B329)
-- 6.1.4 (10B350)
-- 7.1.2 (11D257) (BASE)
-
-### iPhone5,2
-- 6.0.1 (10A525)
-- 6.0.2 (10A551)
-- 6.1 (10B143)
-- 6.1.2 (10B146)
-- 6.1.3 (10B329)
-- 8.1.1 (12B435)
-- 9.0 (13A344)
-- 9.0.1 (13A404)
-- 9.1 (13B143)
-- 9.2 (13C75)
-- 9.3 (13E233)
-- 9.3r1 (13E237)
-- 9.3.3 (13G34)
-- 9.3.4 (13G35)
-
-### iPod5,1
-- 6.0 (10A406)
-- 6.0.1 (10A523)
-- 6.1 (10B141)
-- 6.1.2 (10B146)
-- 6.1.3 (10B329)
-- 7.1.2 (11D257) (BASE)
-- 8.1.1 (12B435)
 
 ## INFOMATION
 (TODO)  
