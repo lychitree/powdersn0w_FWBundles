@@ -21,6 +21,13 @@
 - 8.1 (lychi)
 - 8.1.1 (lychi)
 - 8.1.2 (lychi)
+- 8.1pre (lychi)
+- 8.1.3 (lychi)
+- 8.2 (lychi)
+- 8.3pre (lychi)
+- 8.3 (lychi)
+- 8.4 (lychi)
+- 8.4.1 (lychi)
 
 
 ### iPhone5,2 (complete)
@@ -67,13 +74,6 @@
 - all supported versions sometime in the future
 
 ### iPhone5,1
-- 8.1pre 
-- 8.1.3 
-- 8.2 
-- 8.3pre 
-- 8.3 
-- 8.4 
-- 8.4.1 
 - 9.0 
 - 9.0.1 
 - 9.0.2 

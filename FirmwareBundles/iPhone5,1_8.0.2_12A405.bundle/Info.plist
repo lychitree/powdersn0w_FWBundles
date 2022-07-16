@@ -9,7 +9,7 @@
 	<key>RootFilesystemKey</key>
 	<string>4387cb836a21ed1fb65f3267c16fcd9b50a257cca4aacb0654aeca512ccf89a0ea62b5e9</string>
 	<key>RootFilesystemSize</key>
-	<integer>2200</integer>
+	<integer>2300</integer>
 	<key>RamdiskOptionsPath</key>
 	<string>/usr/local/share/restore/options.n41.plist</string>
 	<key>SHA256</key>
