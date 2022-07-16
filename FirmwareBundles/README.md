@@ -13,7 +13,9 @@
 - 6.1 (lychi)
 - 6.1.2 (lychi)
 - 6.1.3 (lychi)
+- 8.0 (lychi)
 - 8.1.1 (lychi)
+- 8.3 (lychi)
 
 ### iPhone5,1 (complete)
 - 6.0 (lychi)
