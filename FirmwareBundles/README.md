@@ -7,6 +7,14 @@
 - 6.1.3 (dora2ios)
 - 8.1.3 (lychi)
 
+### iPod5,1
+- 6.0 (lychi)
+- 6.0.1 (lychi)
+- 6.1 (lychi)
+- 6.1.2 (lychi)
+- 6.1.3 (lychi)
+- 8.1.1 (lychi)
+
 ### iPhone5,1 (complete)
 - 6.0 (lychi)
 - 6.0.1 (lychi)
